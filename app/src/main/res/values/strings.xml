@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KotlinAdapter</string>
+    <string name="clickOnPresident">Click on a president</string>
+    <string name="hits">Hits: %1$s</string>
+
+</resources>
